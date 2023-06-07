@@ -12,5 +12,5 @@ The content of this repository includes:
 Examples: A collection of practical examples demonstrating various OOP concepts such as classes, objects, inheritance, encapsulation, polymorphism, and more.
 Tutorials: Step-by-step tutorials explaining how to implement different OOP concepts in Python, along with code samples and explanations.
 Best Practices: Guidelines and recommendations for writing clean and maintainable object-oriented code in Python.
-FAQs: Frequently Asked Questions related to Python OOP, addressing common queries and concerns.
+Assignment Questions related to Python OOP, addressing common queries and concerns.
 The repository will be regularly updated with new content, ensuring a comprehensive resource for learning and mastering OOP using Python.
